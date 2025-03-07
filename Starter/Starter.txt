@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Me</title>
+</head>
+<body>
+    <h1>Hi, I'm Jin!</h1>
+    <p>I am doing 01 Laboratory Activity 1 in our WebSys by our instructor Sir Joms.</p>
+
+    <h2>This is the linking of the two external social media sites:</h2>
+    <a href="https://www.facebook.com">Facebook</a><br>
+    <a href="https://www.twitter.com">Twitter</a>
+</body>
+</html>
