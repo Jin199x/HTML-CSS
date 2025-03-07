@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> STI Enrollment Form</title>
+</head>
+<body>
+	<h2> STI Enrollment Form</h2>
+	<h3> by Jin</h3>
+	<h3> BSIT601A </h3>
+	
+	<form>
+		<label>Full Name:</label><br>
+		<input type="text" name="fullname">
+		<br><br>
+
+		<label> Email Address:</label><br>
+		<input type="email" name="email">
+		<br><br>
+	
+		<label>Contact Number:</label><br>
+		<input type="text" name="contact">
+		<br><br>
+
+		<label>Course</label><br>
+		<input type="text" name="course">
+		<br><br>
+
+		<label>Student ID:</label><br>
+		<input type="text" name="student_id">
+		<br><br>
+		
+
+		<p>Enrollment Type:</p>
+		<input type="radio" name="enrollment" value="New"> New Student
+		<input type="radio" name="enrollment" value="Continuing"> Continuing Student
+		<input type="radio" name="enrollment" value="Transferee"> Transferee
+		<br><br>
+
+		<input type="submit" value="Submit">
+		<input type="reset" value="Reset">
+	</form>
+
+	<br>
+	<video width="320" height="240" controls style="margin-left: 20px; margin-right: 20px;">
+	<source src="media/Enrollment.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
+
+	<img src="media/Thumbnail.png" alt="Thumbnail Image" width="320" height="240">
+	<br><br>
+
+
+
+</body>
+</html>
+
