@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.box {
+    width: 120px;
+    margin: 120px auto;
+    padding: 120px;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.animals {
+    border-color: red green;
+    border-style: dashed solid;
+}
+
+.months {
+    border-color: blue orange;
+    border-style: dotted double;
+}
+
+.countries {
+    border-color: purple yellow;
+    border-style: groove ridge;
+}
+
+.food {
+    border-color: black pink;
+    border-style: inset outset;
+}
